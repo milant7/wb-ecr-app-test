@@ -1,0 +1,8 @@
+{
+  "name": "External ECR test app",
+  "dockerComposeFile": "docker-compose.yaml",
+  "service": "app",
+  "shutdownAction": "none",
+  "workspaceFolder": "/workspace",
+  "remoteUser": "root"
+}
